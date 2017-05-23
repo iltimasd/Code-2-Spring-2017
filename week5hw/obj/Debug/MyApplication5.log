@@ -1,0 +1,17 @@
+﻿  main.cpp
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::setup(void)" (?setup@ofApp@@UAEXXZ) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::update(void)" (?update@ofApp@@UAEXXZ) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::draw(void)" (?draw@ofApp@@UAEXXZ) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::keyPressed(int)" (?keyPressed@ofApp@@UAEXH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::keyReleased(int)" (?keyReleased@ofApp@@UAEXH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::mouseMoved(int,int)" (?mouseMoved@ofApp@@UAEXHH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::mouseDragged(int,int,int)" (?mouseDragged@ofApp@@UAEXHHH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::mousePressed(int,int,int)" (?mousePressed@ofApp@@UAEXHHH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::mouseReleased(int,int,int)" (?mouseReleased@ofApp@@UAEXHHH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::mouseEntered(int,int)" (?mouseEntered@ofApp@@UAEXHH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::mouseExited(int,int)" (?mouseExited@ofApp@@UAEXHH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::windowResized(int,int)" (?windowResized@ofApp@@UAEXHH@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::dragEvent(class ofDragInfo)" (?dragEvent@ofApp@@UAEXVofDragInfo@@@Z) already defined in main.obj
+ofApp.obj : error LNK2005: "public: virtual void __thiscall ofApp::gotMessage(class ofMessage)" (?gotMessage@ofApp@@UAEXVofMessage@@@Z) already defined in main.obj
+     Creating library bin\MyApplication5_debug.lib and object bin\MyApplication5_debug.exp
+bin\MyApplication5_debug.exe : fatal error LNK1169: one or more multiply defined symbols found

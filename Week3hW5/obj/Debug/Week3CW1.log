@@ -1,0 +1,15 @@
+﻿  Moon.cpp
+  Planet.cpp
+     Creating library bin\Week3CW1_debug.lib and object bin\Week3CW1_debug.exp
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::keyPressed(int)" (?keyPressed@ofApp@@UAEXH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::keyReleased(int)" (?keyReleased@ofApp@@UAEXH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::mouseMoved(int,int)" (?mouseMoved@ofApp@@UAEXHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::mouseDragged(int,int,int)" (?mouseDragged@ofApp@@UAEXHHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::mousePressed(int,int,int)" (?mousePressed@ofApp@@UAEXHHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::mouseReleased(int,int,int)" (?mouseReleased@ofApp@@UAEXHHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::mouseEntered(int,int)" (?mouseEntered@ofApp@@UAEXHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::mouseExited(int,int)" (?mouseExited@ofApp@@UAEXHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::windowResized(int,int)" (?windowResized@ofApp@@UAEXHH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::dragEvent(class ofDragInfo)" (?dragEvent@ofApp@@UAEXVofDragInfo@@@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __thiscall ofApp::gotMessage(class ofMessage)" (?gotMessage@ofApp@@UAEXVofMessage@@@Z)
+bin\Week3CW1_debug.exe : fatal error LNK1120: 11 unresolved externals
